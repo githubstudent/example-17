@@ -1,3 +1,3 @@
-# Example Repo for Dec. 17
+# Repo for Dec. 17
 
-## GitHub Intermediate class
+GitHub Intermediate class
